@@ -1,0 +1,480 @@
+
+[2026-03-12 15:22:45] Starting Nullzone IT Support Agent from CRM.
+══════════════════════════════════════════════════════════
+  Remote Shell Agent  v2.1  [macOS]
+  !!!  FULL UNRESTRICTED SHELL ACCESS  !!!
+  FOR PERSONAL LAB USE ONLY
+  Any command run in the browser panel executes here.
+══════════════════════════════════════════════════════════
+[2026-03-12T21:22:46.024Z] Connecting to backend...
+[2026-03-12T21:22:46.377Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:22:46.426Z] Disconnected  code=4401  reason=Invalid agent token
+[2026-03-12T21:22:46.426Z] Reconnecting in 5.0s ...
+
+[2026-03-12T21:22:46.594Z] Received SIGTERM — shutting down.
+
+[2026-03-12 15:23:05] Starting Nullzone IT Support Agent from CRM.
+══════════════════════════════════════════════════════════
+  Remote Shell Agent  v2.1  [macOS]
+  !!!  FULL UNRESTRICTED SHELL ACCESS  !!!
+  FOR PERSONAL LAB USE ONLY
+  Any command run in the browser panel executes here.
+══════════════════════════════════════════════════════════
+[2026-03-12T21:23:05.738Z] Connecting to backend...
+[2026-03-12T21:23:06.023Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:23:06.074Z] Disconnected  code=4401  reason=Invalid agent token
+[2026-03-12T21:23:06.075Z] Reconnecting in 5.0s ...
+[2026-03-12T21:23:11.076Z] Connecting to backend...
+[2026-03-12T21:23:11.325Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:23:11.367Z] Disconnected  code=4401  reason=Invalid agent token
+[2026-03-12T21:23:11.368Z] Reconnecting in 5.0s ...
+[2026-03-12T21:23:16.369Z] Connecting to backend...
+[2026-03-12T21:23:16.611Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:23:16.654Z] Disconnected  code=4401  reason=Invalid agent token
+[2026-03-12T21:23:16.654Z] Reconnecting in 5.0s ...
+[2026-03-12T21:23:21.655Z] Connecting to backend...
+[2026-03-12T21:23:21.885Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:23:21.928Z] Disconnected  code=4401  reason=Invalid agent token
+[2026-03-12T21:23:21.928Z] Reconnecting in 5.0s ...
+[2026-03-12T21:23:26.929Z] Connecting to backend...
+[2026-03-12T21:23:27.174Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:23:27.217Z] Disconnected  code=4401  reason=Invalid agent token
+[2026-03-12T21:23:27.217Z] Reconnecting in 5.0s ...
+[2026-03-12T21:23:32.219Z] Connecting to backend...
+[2026-03-12T21:23:32.455Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:23:32.497Z] Disconnected  code=4401  reason=Invalid agent token
+[2026-03-12T21:23:32.498Z] Reconnecting in 5.0s ...
+[2026-03-12T21:23:37.499Z] Connecting to backend...
+[2026-03-12T21:23:37.736Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:23:37.780Z] Disconnected  code=4401  reason=Invalid agent token
+[2026-03-12T21:23:37.780Z] Reconnecting in 5.0s ...
+
+[2026-03-12T21:23:39.052Z] Received SIGINT — shutting down.
+
+[2026-03-12 15:33:56] Starting Nullzone IT Support Agent from CRM.
+══════════════════════════════════════════════════════════
+  Remote Shell Agent  v2.1  [macOS]
+  !!!  FULL UNRESTRICTED SHELL ACCESS  !!!
+  FOR PERSONAL LAB USE ONLY
+  Any command run in the browser panel executes here.
+══════════════════════════════════════════════════════════
+[2026-03-12T21:33:56.708Z] Connecting to backend...
+[2026-03-12T21:33:56.992Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:33:57.777Z] Spawning PTY  shell=/bin/zsh  size=85x30
+[2026-03-12T21:33:57.781Z] Failed to spawn PTY: posix_spawnp failed.
+[2026-03-12T21:36:14.885Z] Spawning PTY  shell=/bin/zsh  size=85x30
+[2026-03-12T21:36:14.890Z] Failed to spawn PTY: posix_spawnp failed.
+[2026-03-12T21:38:58.003Z] Disconnected  code=1006  reason=(none)
+[2026-03-12T21:38:58.005Z] Reconnecting in 5.0s ...
+[2026-03-12T21:39:03.007Z] Connecting to backend...
+[2026-03-12T21:39:03.266Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:39:03.408Z] Spawning PTY  shell=/bin/zsh  size=85x30
+[2026-03-12T21:39:03.411Z] Failed to spawn PTY: posix_spawnp failed.
+
+[2026-03-12T21:40:40.417Z] Received SIGINT — shutting down.
+
+[2026-03-12 15:40:42] Starting Nullzone IT Support Agent from CRM.
+══════════════════════════════════════════════════════════
+  Remote Shell Agent  v2.1  [macOS]
+  !!!  FULL UNRESTRICTED SHELL ACCESS  !!!
+  FOR PERSONAL LAB USE ONLY
+  Any command run in the browser panel executes here.
+══════════════════════════════════════════════════════════
+[2026-03-12T21:40:42.292Z] Connecting to backend...
+[2026-03-12T21:40:42.636Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:40:42.785Z] Spawning PTY  shell=/bin/zsh  size=85x30
+[2026-03-12T21:40:42.788Z] Failed to spawn PTY: posix_spawnp failed.
+[2026-03-12T21:40:42.788Z] Falling back to compatibility shell mode.
+[2026-03-12T21:40:42.792Z] Compatibility shell session started  (/bin/zsh)
+[2026-03-12T21:43:17.881Z] Compatibility shell exited  code=0  signal=null
+[2026-03-12T21:43:18.061Z] Spawning PTY  shell=/bin/zsh  size=85x30
+[2026-03-12T21:43:18.065Z] Failed to spawn PTY: posix_spawnp failed.
+[2026-03-12T21:43:18.065Z] Falling back to compatibility shell mode.
+[2026-03-12T21:43:18.067Z] Compatibility shell session started  (/bin/zsh)
+[2026-03-12T21:43:19.689Z] Compatibility shell exited  code=0  signal=null
+
+[2026-03-12T21:43:27.402Z] Received SIGINT — shutting down.
+
+[2026-03-12 15:43:30] Starting Nullzone IT Support Agent from CRM.
+══════════════════════════════════════════════════════════
+  Remote Shell Agent  v2.1  [macOS]
+  !!!  FULL UNRESTRICTED SHELL ACCESS  !!!
+  FOR PERSONAL LAB USE ONLY
+  Any command run in the browser panel executes here.
+══════════════════════════════════════════════════════════
+[2026-03-12T21:43:30.910Z] Connecting to backend...
+[2026-03-12T21:43:31.160Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:43:31.301Z] Spawning PTY  shell=/bin/zsh  size=85x30
+[2026-03-12T21:43:31.305Z] Failed to spawn PTY: posix_spawnp failed.
+[2026-03-12T21:43:31.305Z] Falling back to compatibility shell mode.
+[2026-03-12T21:43:31.308Z] Compatibility shell session started  (/bin/zsh)
+[2026-03-12T21:47:39.268Z] Compatibility shell exited  code=130  signal=null
+[2026-03-12T21:47:39.451Z] Spawning PTY  shell=/bin/zsh  size=85x26
+[2026-03-12T21:47:39.454Z] Failed to spawn PTY: posix_spawnp failed.
+[2026-03-12T21:47:39.454Z] Falling back to compatibility shell mode.
+[2026-03-12T21:47:39.456Z] Compatibility shell session started  (/bin/zsh)
+[2026-03-12T21:47:41.537Z] Compatibility shell exited  code=130  signal=null
+
+[2026-03-12T21:47:43.600Z] Received SIGINT — shutting down.
+
+[2026-03-12 15:48:11] Starting Nullzone IT Support Agent from CRM.
+══════════════════════════════════════════════════════════
+  Remote Shell Agent  v2.1  [macOS]
+  !!!  FULL UNRESTRICTED SHELL ACCESS  !!!
+  FOR PERSONAL LAB USE ONLY
+  Any command run in the browser panel executes here.
+══════════════════════════════════════════════════════════
+[2026-03-12T21:48:11.662Z] Connecting to backend...
+[2026-03-12T21:48:11.982Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:48:12.399Z] Spawning PTY  shell=/bin/zsh  size=85x26
+[2026-03-12T21:48:12.401Z] Failed to spawn PTY: posix_spawnp failed.
+[2026-03-12T21:51:27.825Z] Spawning PTY  shell=/bin/zsh  size=85x26
+[2026-03-12T21:51:27.836Z] Failed to spawn PTY: posix_spawnp failed.
+
+[2026-03-12T21:51:59.719Z] Received SIGINT — shutting down.
+
+[2026-03-12 15:52:36] Starting Nullzone IT Support Agent from CRM.
+══════════════════════════════════════════════════════════
+  Remote Shell Agent  v2.1  [macOS]
+  !!!  FULL UNRESTRICTED SHELL ACCESS  !!!
+  FOR PERSONAL LAB USE ONLY
+  Any command run in the browser panel executes here.
+══════════════════════════════════════════════════════════
+[2026-03-12T21:52:36.852Z] Connecting to backend...
+[2026-03-12T21:52:37.111Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-12T21:52:37.631Z] Spawning PTY  shell=/bin/zsh  size=85x26
+[2026-03-12T21:52:37.636Z] PTY session started  (/bin/zsh)
+
+[2026-03-12T21:54:44.608Z] Received SIGINT — shutting down.
+[2026-03-12T21:54:44.614Z] PTY session terminated by request
+
+[2026-03-12 18:26:57] Starting Nullzone IT Support Agent from CRM.
+══════════════════════════════════════════════════════════
+  Remote Shell Agent  v2.1  [macOS]
+  !!!  FULL UNRESTRICTED SHELL ACCESS  !!!
+  FOR PERSONAL LAB USE ONLY
+  Any command run in the browser panel executes here.
+══════════════════════════════════════════════════════════
+[2026-03-13T00:26:57.486Z] Connecting to backend...
+[2026-03-13T00:26:57.770Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T00:26:58.635Z] Spawning PTY  shell=/bin/zsh  size=85x30
+[2026-03-13T00:26:58.640Z] PTY session started  (/bin/zsh)
+[2026-03-13T00:31:58.826Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T00:31:58.831Z] PTY session terminated by request
+[2026-03-13T00:31:58.831Z] Reconnecting in 5.0s ...
+[2026-03-13T00:31:58.863Z] PTY exited  code=1  signal=0
+[2026-03-13T00:32:03.833Z] Connecting to backend...
+[2026-03-13T00:32:04.677Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T00:32:04.800Z] Spawning PTY  shell=/bin/zsh  size=173x33
+[2026-03-13T00:32:04.808Z] PTY session started  (/bin/zsh)
+[2026-03-13T00:37:05.416Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T00:37:05.417Z] PTY session terminated by request
+[2026-03-13T00:37:05.417Z] Reconnecting in 5.0s ...
+[2026-03-13T00:37:05.467Z] PTY exited  code=1  signal=0
+[2026-03-13T00:37:10.419Z] Connecting to backend...
+[2026-03-13T00:37:10.919Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T00:37:11.034Z] Spawning PTY  shell=/bin/zsh  size=173x33
+[2026-03-13T00:37:11.040Z] PTY session started  (/bin/zsh)
+[2026-03-13T00:42:11.852Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T00:42:11.853Z] PTY session terminated by request
+[2026-03-13T00:42:11.853Z] Reconnecting in 5.0s ...
+[2026-03-13T00:42:11.901Z] PTY exited  code=1  signal=0
+[2026-03-13T00:42:16.854Z] Connecting to backend...
+[2026-03-13T00:42:17.732Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T00:42:17.863Z] Spawning PTY  shell=/bin/zsh  size=173x33
+[2026-03-13T00:42:17.866Z] PTY session started  (/bin/zsh)
+[2026-03-13T00:47:18.677Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T00:47:18.678Z] PTY session terminated by request
+[2026-03-13T00:47:18.678Z] Reconnecting in 5.0s ...
+[2026-03-13T00:47:18.727Z] PTY exited  code=1  signal=0
+[2026-03-13T00:47:23.678Z] Connecting to backend...
+[2026-03-13T00:47:24.185Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T00:47:24.341Z] Spawning PTY  shell=/bin/zsh  size=41x28
+[2026-03-13T00:47:24.347Z] PTY session started  (/bin/zsh)
+[2026-03-13T00:52:25.193Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T00:52:25.194Z] PTY session terminated by request
+[2026-03-13T00:52:25.194Z] Reconnecting in 5.0s ...
+[2026-03-13T00:52:25.283Z] PTY exited  code=1  signal=0
+[2026-03-13T00:52:30.195Z] Connecting to backend...
+[2026-03-13T00:52:30.921Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T00:52:31.065Z] Spawning PTY  shell=/bin/zsh  size=348x74
+[2026-03-13T00:52:31.072Z] PTY session started  (/bin/zsh)
+[2026-03-13T00:57:31.807Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T00:57:31.809Z] PTY session terminated by request
+[2026-03-13T00:57:31.809Z] Reconnecting in 5.0s ...
+[2026-03-13T00:57:31.854Z] PTY exited  code=1  signal=0
+[2026-03-13T00:57:36.810Z] Connecting to backend...
+[2026-03-13T00:57:37.305Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T00:57:37.466Z] Spawning PTY  shell=/bin/zsh  size=348x74
+[2026-03-13T00:57:37.473Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:02:38.352Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:02:38.355Z] PTY session terminated by request
+[2026-03-13T01:02:38.355Z] Reconnecting in 5.0s ...
+[2026-03-13T01:02:38.401Z] PTY exited  code=1  signal=0
+[2026-03-13T01:02:43.357Z] Connecting to backend...
+[2026-03-13T01:02:43.943Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:02:44.049Z] Spawning PTY  shell=/bin/zsh  size=348x74
+[2026-03-13T01:02:44.053Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:07:44.904Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:07:44.906Z] PTY session terminated by request
+[2026-03-13T01:07:44.906Z] Reconnecting in 5.0s ...
+[2026-03-13T01:07:44.954Z] PTY exited  code=1  signal=0
+[2026-03-13T01:07:49.907Z] Connecting to backend...
+[2026-03-13T01:07:50.415Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:07:50.590Z] Spawning PTY  shell=/bin/zsh  size=348x74
+[2026-03-13T01:07:50.596Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:12:51.383Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:12:51.385Z] PTY session terminated by request
+[2026-03-13T01:12:51.385Z] Reconnecting in 5.0s ...
+[2026-03-13T01:12:51.430Z] PTY exited  code=1  signal=0
+[2026-03-13T01:12:56.386Z] Connecting to backend...
+[2026-03-13T01:12:56.805Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:12:57.216Z] Spawning PTY  shell=/bin/zsh  size=173x33
+[2026-03-13T01:12:57.222Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:17:57.784Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:17:57.785Z] PTY session terminated by request
+[2026-03-13T01:17:57.786Z] Reconnecting in 5.0s ...
+[2026-03-13T01:17:57.831Z] PTY exited  code=1  signal=0
+[2026-03-13T01:18:02.787Z] Connecting to backend...
+[2026-03-13T01:18:03.216Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:18:03.377Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:18:03.383Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:23:04.198Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:23:04.199Z] PTY session terminated by request
+[2026-03-13T01:23:04.199Z] Reconnecting in 5.0s ...
+[2026-03-13T01:23:04.247Z] PTY exited  code=1  signal=0
+[2026-03-13T01:23:09.201Z] Connecting to backend...
+[2026-03-13T01:23:09.621Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:23:09.773Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:23:09.779Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:28:10.596Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:28:10.598Z] PTY session terminated by request
+[2026-03-13T01:28:10.598Z] Reconnecting in 5.0s ...
+[2026-03-13T01:28:10.651Z] PTY exited  code=1  signal=0
+[2026-03-13T01:28:15.599Z] Connecting to backend...
+[2026-03-13T01:28:16.047Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:28:16.195Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:28:16.199Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:33:17.048Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:33:17.054Z] PTY session terminated by request
+[2026-03-13T01:33:17.054Z] Reconnecting in 5.0s ...
+[2026-03-13T01:33:17.085Z] PTY exited  code=1  signal=0
+[2026-03-13T01:33:22.056Z] Connecting to backend...
+[2026-03-13T01:33:22.441Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:33:22.822Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:33:22.829Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:38:23.447Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:38:23.450Z] PTY session terminated by request
+[2026-03-13T01:38:23.450Z] Reconnecting in 5.0s ...
+[2026-03-13T01:38:23.498Z] PTY exited  code=1  signal=0
+[2026-03-13T01:38:28.452Z] Connecting to backend...
+[2026-03-13T01:38:29.544Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:38:29.968Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:38:29.973Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:43:30.503Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:43:30.513Z] PTY session terminated by request
+[2026-03-13T01:43:30.514Z] Reconnecting in 5.0s ...
+[2026-03-13T01:43:30.559Z] PTY exited  code=1  signal=0
+[2026-03-13T01:43:35.516Z] Connecting to backend...
+[2026-03-13T01:43:36.108Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:43:36.303Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:43:36.307Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:48:37.179Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:48:37.185Z] PTY session terminated by request
+[2026-03-13T01:48:37.185Z] Reconnecting in 5.0s ...
+[2026-03-13T01:48:37.218Z] PTY exited  code=1  signal=0
+[2026-03-13T01:48:42.188Z] Connecting to backend...
+[2026-03-13T01:48:43.187Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:48:43.542Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:48:43.549Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:53:44.185Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:53:44.188Z] PTY session terminated by request
+[2026-03-13T01:53:44.188Z] Reconnecting in 5.0s ...
+[2026-03-13T01:53:44.238Z] PTY exited  code=1  signal=0
+[2026-03-13T01:53:49.190Z] Connecting to backend...
+[2026-03-13T01:53:49.684Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:53:49.814Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:53:49.818Z] PTY session started  (/bin/zsh)
+[2026-03-13T01:58:50.666Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T01:58:50.668Z] PTY session terminated by request
+[2026-03-13T01:58:50.668Z] Reconnecting in 5.0s ...
+[2026-03-13T01:58:50.717Z] PTY exited  code=1  signal=0
+[2026-03-13T01:58:55.669Z] Connecting to backend...
+[2026-03-13T01:58:56.132Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T01:58:56.259Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T01:58:56.264Z] PTY session started  (/bin/zsh)
+[2026-03-13T02:03:57.126Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T02:03:57.128Z] PTY session terminated by request
+[2026-03-13T02:03:57.128Z] Reconnecting in 5.0s ...
+[2026-03-13T02:03:57.183Z] PTY exited  code=1  signal=0
+[2026-03-13T02:04:02.128Z] Connecting to backend...
+[2026-03-13T02:04:02.564Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T02:04:02.725Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T02:04:02.730Z] PTY session started  (/bin/zsh)
+[2026-03-13T02:09:03.655Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T02:09:03.661Z] PTY session terminated by request
+[2026-03-13T02:09:03.662Z] Reconnecting in 5.0s ...
+[2026-03-13T02:09:03.698Z] PTY exited  code=1  signal=0
+[2026-03-13T02:09:08.662Z] Connecting to backend...
+[2026-03-13T02:09:09.120Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T02:09:09.292Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T02:09:09.299Z] PTY session started  (/bin/zsh)
+[2026-03-13T02:14:10.131Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T02:14:10.138Z] PTY session terminated by request
+[2026-03-13T02:14:10.138Z] Reconnecting in 5.0s ...
+[2026-03-13T02:14:10.171Z] PTY exited  code=1  signal=0
+[2026-03-13T02:14:15.138Z] Connecting to backend...
+[2026-03-13T02:14:15.602Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T02:14:15.757Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T02:14:15.763Z] PTY session started  (/bin/zsh)
+[2026-03-13T02:19:16.555Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T02:19:16.557Z] PTY session terminated by request
+[2026-03-13T02:19:16.557Z] Reconnecting in 5.0s ...
+[2026-03-13T02:19:16.602Z] PTY exited  code=1  signal=0
+[2026-03-13T02:19:21.559Z] Connecting to backend...
+[2026-03-13T02:19:22.018Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T02:19:22.147Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T02:19:22.152Z] PTY session started  (/bin/zsh)
+[2026-03-13T02:24:23.029Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T02:24:23.030Z] PTY session terminated by request
+[2026-03-13T02:24:23.030Z] Reconnecting in 5.0s ...
+[2026-03-13T02:24:23.078Z] PTY exited  code=1  signal=0
+[2026-03-13T02:24:28.031Z] Connecting to backend...
+[2026-03-13T02:24:28.421Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T02:24:28.632Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T02:24:28.643Z] PTY session started  (/bin/zsh)
+[2026-03-13T09:09:51.094Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T09:09:51.099Z] PTY session terminated by request
+[2026-03-13T09:09:51.099Z] Reconnecting in 5.0s ...
+[2026-03-13T09:09:51.125Z] PTY exited  code=1  signal=0
+[2026-03-13T09:09:56.104Z] Connecting to backend...
+[2026-03-13T09:09:56.524Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T09:10:32.989Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T09:10:32.999Z] PTY session started  (/bin/zsh)
+[2026-03-13T09:32:22.158Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T09:32:22.159Z] PTY session terminated by request
+[2026-03-13T09:32:22.159Z] Reconnecting in 5.0s ...
+[2026-03-13T09:32:22.215Z] PTY exited  code=1  signal=0
+[2026-03-13T09:32:27.160Z] Connecting to backend...
+[2026-03-13T09:32:27.508Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T09:45:34.639Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T09:45:34.640Z] Reconnecting in 5.0s ...
+[2026-03-13T09:45:39.641Z] Connecting to backend...
+[2026-03-13T09:45:40.006Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T09:45:40.823Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T09:45:40.830Z] PTY session started  (/bin/zsh)
+[2026-03-13T09:50:41.006Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T09:50:41.008Z] PTY session terminated by request
+[2026-03-13T09:50:41.009Z] Reconnecting in 5.0s ...
+[2026-03-13T09:50:41.058Z] PTY exited  code=1  signal=0
+[2026-03-13T09:50:46.010Z] Connecting to backend...
+[2026-03-13T09:50:46.332Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T09:50:46.473Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T09:50:46.480Z] PTY session started  (/bin/zsh)
+[2026-03-13T09:55:47.329Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T09:55:47.331Z] PTY session terminated by request
+[2026-03-13T09:55:47.331Z] Reconnecting in 5.0s ...
+[2026-03-13T09:55:47.385Z] PTY exited  code=1  signal=0
+[2026-03-13T09:55:52.332Z] Connecting to backend...
+[2026-03-13T09:55:52.811Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T09:55:52.963Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T09:55:52.969Z] PTY session started  (/bin/zsh)
+[2026-03-13T10:28:43.094Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T10:28:43.096Z] PTY session terminated by request
+[2026-03-13T10:28:43.096Z] Reconnecting in 5.0s ...
+[2026-03-13T10:28:43.130Z] PTY exited  code=1  signal=0
+[2026-03-13T10:28:48.097Z] Connecting to backend...
+[2026-03-13T10:28:48.376Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T10:28:49.121Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T10:28:49.129Z] PTY session started  (/bin/zsh)
+[2026-03-13T11:00:41.973Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T11:00:41.979Z] PTY session terminated by request
+[2026-03-13T11:00:41.980Z] Reconnecting in 5.0s ...
+[2026-03-13T11:00:42.019Z] PTY exited  code=1  signal=0
+[2026-03-13T11:00:46.981Z] Connecting to backend...
+[2026-03-13T11:00:47.270Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T11:00:48.048Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T11:00:48.053Z] PTY session started  (/bin/zsh)
+[2026-03-13T11:16:32.037Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T11:16:32.038Z] PTY session terminated by request
+[2026-03-13T11:16:32.038Z] Reconnecting in 5.0s ...
+[2026-03-13T11:16:32.092Z] PTY exited  code=1  signal=0
+[2026-03-13T11:16:37.041Z] Connecting to backend...
+[2026-03-13T11:16:37.357Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T11:16:38.135Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T11:16:38.141Z] PTY session started  (/bin/zsh)
+[2026-03-13T11:54:57.726Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T11:54:57.727Z] PTY session terminated by request
+[2026-03-13T11:54:57.727Z] Reconnecting in 5.0s ...
+[2026-03-13T11:54:57.774Z] PTY exited  code=1  signal=0
+[2026-03-13T11:55:02.727Z] Connecting to backend...
+[2026-03-13T11:55:03.163Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T11:55:03.963Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T11:55:03.970Z] PTY session started  (/bin/zsh)
+[2026-03-13T12:10:57.883Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T12:10:57.884Z] PTY session terminated by request
+[2026-03-13T12:10:57.884Z] Reconnecting in 5.0s ...
+[2026-03-13T12:10:57.928Z] PTY exited  code=1  signal=0
+[2026-03-13T12:11:02.886Z] Connecting to backend...
+[2026-03-13T12:11:03.184Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T12:11:03.984Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T12:11:03.988Z] PTY session started  (/bin/zsh)
+[2026-03-13T12:26:32.973Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T12:26:32.973Z] PTY session terminated by request
+[2026-03-13T12:26:32.973Z] Reconnecting in 5.0s ...
+[2026-03-13T12:26:33.008Z] PTY exited  code=1  signal=0
+[2026-03-13T12:26:37.974Z] Connecting to backend...
+[2026-03-13T12:26:38.241Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T12:26:39.017Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T12:26:39.022Z] PTY session started  (/bin/zsh)
+[2026-03-13T12:42:35.115Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T12:42:35.118Z] PTY session terminated by request
+[2026-03-13T12:42:35.118Z] Reconnecting in 5.0s ...
+[2026-03-13T12:42:35.156Z] PTY exited  code=1  signal=0
+[2026-03-13T12:42:40.121Z] Connecting to backend...
+[2026-03-13T12:42:40.463Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T12:42:41.278Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T12:42:41.282Z] PTY session started  (/bin/zsh)
+[2026-03-13T13:13:59.051Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T13:13:59.053Z] PTY session terminated by request
+[2026-03-13T13:13:59.053Z] Reconnecting in 5.0s ...
+[2026-03-13T13:13:59.106Z] PTY exited  code=1  signal=0
+[2026-03-13T13:14:04.066Z] Connecting to backend...
+[2026-03-13T13:14:04.385Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T13:14:05.263Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T13:14:05.268Z] PTY session started  (/bin/zsh)
+[2026-03-13T13:59:51.458Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T13:59:51.458Z] PTY session terminated by request
+[2026-03-13T13:59:51.458Z] Reconnecting in 5.0s ...
+[2026-03-13T13:59:51.505Z] PTY exited  code=1  signal=0
+[2026-03-13T13:59:56.460Z] Connecting to backend...
+[2026-03-13T14:00:07.542Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T14:00:09.372Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T14:00:09.376Z] PTY session started  (/bin/zsh)
+[2026-03-13T14:15:53.446Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T14:15:53.447Z] PTY session terminated by request
+[2026-03-13T14:15:53.447Z] Reconnecting in 5.0s ...
+[2026-03-13T14:15:53.511Z] PTY exited  code=1  signal=0
+[2026-03-13T14:15:58.450Z] Connecting to backend...
+[2026-03-13T14:15:58.813Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T14:15:59.713Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T14:15:59.718Z] PTY session started  (/bin/zsh)
+[2026-03-13T14:47:24.029Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T14:47:24.031Z] PTY session terminated by request
+[2026-03-13T14:47:24.031Z] Reconnecting in 5.0s ...
+[2026-03-13T14:47:24.074Z] PTY exited  code=1  signal=0
+[2026-03-13T14:47:29.034Z] Connecting to backend...
+[2026-03-13T14:47:29.319Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T14:47:30.274Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T14:47:30.280Z] PTY session started  (/bin/zsh)
+[2026-03-13T15:11:51.352Z] Disconnected  code=1006  reason=(none)
+[2026-03-13T15:11:51.354Z] PTY session terminated by request
+[2026-03-13T15:11:51.354Z] Reconnecting in 5.0s ...
+[2026-03-13T15:11:51.400Z] PTY exited  code=1  signal=0
+[2026-03-13T15:11:56.356Z] Connecting to backend...
+[2026-03-13T15:11:56.859Z] Connected  (agentId: agent-MacBook-Air-de-Francisco)
+[2026-03-13T15:11:57.696Z] Spawning PTY  shell=/bin/zsh  size=231x46
+[2026-03-13T15:11:57.703Z] PTY session started  (/bin/zsh)
+
+[2026-03-13T18:27:17.214Z] Received SIGINT — shutting down.
+[2026-03-13T18:27:17.247Z] PTY session terminated by request
